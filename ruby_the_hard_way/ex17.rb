@@ -10,7 +10,7 @@ puts "Does the output file \"#{to_file}\" exists? #{File.exist?(to_file)}"
 
 puts "Ready, hit RETURN to contine, CTRL-C to abort."
 
-$stdin.gets 
+$stdin.gets
 
 out_file = open(to_file, "w")
 
