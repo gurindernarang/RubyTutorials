@@ -25,7 +25,8 @@ elements = []
 #then use the range operator
 (0..10).each do |i|
   puts "Adding #{i} to the list"
-  elements.push(i)
+  #elements.push(i)
+  elements << i
 end
 
 elements.each do |element|
