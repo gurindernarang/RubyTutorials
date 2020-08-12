@@ -6,3 +6,4 @@
 .idea/modules.xml
 .idea/vcs.xml
 angular_todo_app/node_modules/*
+angular_todo_app/.idea/*
