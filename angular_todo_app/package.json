@@ -1,0 +1,17 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Todo application using AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurinderpal Singh",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-animate": "^1.8.0",
+    "angular-aria": "^1.8.0",
+    "angular-material": "^1.2.0"
+  }
+}
